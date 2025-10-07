@@ -112,6 +112,7 @@ Benefits:
 
 ## 📁 Project Structure
 smoker-detection-lora/
+├── main.py
 ├── notebooks/
 │   └── smoker_detection.ipynb    # Main training notebook
 ├── src/
